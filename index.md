@@ -4,7 +4,7 @@ First Python Meetup
 
 ### When: 17:00, 30<sup>th</sup> November 2012
 
-### Where: Diplomvej 381, Scion DTU, Lyngby-2800
+### Where: Diplomvej 381, Scion DTU, 2800 Lyngby
 
 Are you a software developer programming in Python? Are you a student interested
 in Python? Are you a hobbyist or just curious about Python? Then this event is
