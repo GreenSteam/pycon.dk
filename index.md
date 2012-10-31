@@ -12,13 +12,15 @@ for you! Come and get some Python.
 
 This is a free-for-all event which aim is to bring the Python community in Denmark together.
 
-If you want to come, write us an email with your name to TBA.
+If you want to come, write us an email with your name to
+<a href="mailto:meetup@pycon.dk">meetup@pycon.dk</a>.
 
 We are interested in sharing knowledge and experience, so we encourage you
 not only participate, but to give a talk at the meetup. It could be about
 anything related to Python, dynamic languages and programming tools.
 
-If you want to give a talk, write us to TBA.
+If you want to give a talk, write us to
+<a href="mailto:talks@pycon.dk">talks@pycon.dk</a>.
 
 If you want to talk to a human being call +45 53 42 53 21.
 
