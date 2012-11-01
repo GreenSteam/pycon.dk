@@ -1,7 +1,4 @@
 
-First Python Meetup
-===============================================================================
-
 ### When: 17:00, 30<sup>th</sup> November 2012
 
 ### Where: Room M1, Diplomvej 381, Scion DTU, 2800 Lyngby
@@ -29,7 +26,7 @@ If you want to talk to a human being call +45 53 42 53 21.
 
 - 17:00 Warm-up
 - 17:30 Talk 1: Create beautiful command-line interfaces with Python
-- 18:00 Talk 2: TBA
+- 18:00 Talk 2: Scientific Python
 - 18:30 Talk 3: TBA
 - 19:00-21:00 Socializing
 
