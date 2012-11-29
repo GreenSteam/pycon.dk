@@ -25,9 +25,9 @@ If you want to talk to a human being call +45 53 42 53 21.
 ### Schedule
 
 - 17:00 Warm-up
-- 17:30 Talk 1: Create beautiful command-line interfaces with Python
-- 18:00 Talk 2: Scientific Python
-- 18:30 Talk 3: TBA
+- 17:30 Talk 1: "Opbeat: ops for devs" by Ron Cohen
+- 18:00 Talk 2: "Scientific Python" by Jóan Petur Petersen
+- 18:30 Talk 3: "Create beautiful command-line interfaces" by Vladimir Keleshev
 - 19:00-21:00 Socializing
 
 ### [Map](https://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=55.782469,12.512829&amp;daddr=&amp;hl=da&amp;geocode=&amp;sll=55.782472,12.512811&amp;sspn=0.000751,0.002237&amp;t=h&amp;mra=mift&amp;mrsp=0&amp;sz=19&amp;ie=UTF8&amp;ll=55.782472,12.512811&amp;spn=0.000751,0.002237)
