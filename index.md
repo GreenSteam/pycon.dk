@@ -1,4 +1,46 @@
 
+### When: 18:00, Thursday, 4<sup>th</sup> April 2013
+
+### Where: Room M1, Diplomvej 381, Scion DTU, 2800 Lyngby
+
+Welcome to the 3<sup>rd</sup> Python meetup in Denmark.
+This is a free-for-all event which aim is to bring the
+Python community in Denmark together.
+
+If you want to come or give a talk, write us an email to
+<a href="mailto:meetup@pycon.dk">meetup@pycon.dk</a>.
+
+We have 2 formats for talks:
+
+ - 30-minute full-blown talks
+ - 5-minute "lightning" talks
+
+If you want to talk to a human being call (+45) 53 42 53 21.
+
+If you want to discuss something publicly, we have
+a [sub-reddit for that](http://reddit.com/r/pycon_dk).
+
+### Schedule
+
+- 18:00 Introduction
+- 18:30 Talk 1: to be anounced
+- 19:00 Lightning talks
+- 19:30 Talk 2: to be anounced
+- 20:00 Lightning talks
+- 20:30 Talk 3: to be anounced
+
+### [Map](https://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=55.782469,12.512829&amp;daddr=&amp;hl=da&amp;geocode=&amp;sll=55.782472,12.512811&amp;sspn=0.000751,0.002237&amp;t=h&amp;mra=mift&amp;mrsp=0&amp;sz=19&amp;ie=UTF8&amp;ll=55.782472,12.512811&amp;spn=0.000751,0.002237)
+
+<iframe width="700" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=55.782469,12.512829&amp;daddr=&amp;hl=da&amp;geocode=&amp;sll=55.782472,12.512811&amp;sspn=0.000751,0.002237&amp;t=h&amp;mra=mift&amp;mrsp=0&amp;sz=19&amp;ie=UTF8&amp;ll=55.782472,12.512811&amp;spn=0.000751,0.002237&amp;output=embed"></iframe>
+
+* * *
+
+# Previous meetups:
+
+* * *
+
+# #2
+
 ### When: 17:00, Thursday, 28<sup>th</sup> February 2013
 
 ### Where: Room M1, Diplomvej 381, Scion DTU, 2800 Lyngby
@@ -44,13 +86,9 @@ a [sub-reddit for that](http://reddit.com/r/pycon_dk).
 - 18:30 Lightning-talk session: a series of 5 minute-talks
 - 19:30-21:00 Socializing
 
-### [Map](https://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=55.782469,12.512829&amp;daddr=&amp;hl=da&amp;geocode=&amp;sll=55.782472,12.512811&amp;sspn=0.000751,0.002237&amp;t=h&amp;mra=mift&amp;mrsp=0&amp;sz=19&amp;ie=UTF8&amp;ll=55.782472,12.512811&amp;spn=0.000751,0.002237)
-
-<iframe width="700" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=55.782469,12.512829&amp;daddr=&amp;hl=da&amp;geocode=&amp;sll=55.782472,12.512811&amp;sspn=0.000751,0.002237&amp;t=h&amp;mra=mift&amp;mrsp=0&amp;sz=19&amp;ie=UTF8&amp;ll=55.782472,12.512811&amp;spn=0.000751,0.002237&amp;output=embed"></iframe>
-
 * * *
 
-## Previous meetups:
+# #1
 
 ### When: 17:00, 30<sup>th</sup> November 2012
 
