@@ -22,12 +22,11 @@ a [sub-reddit for that](http://reddit.com/r/pycon_dk).
 
 ### Schedule
 
-- 18:00 Introduction
-- 18:30 Talk 1: to be anounced
-- 19:00 Lightning talks
-- 19:30 Talk 2: to be anounced
-- 20:00 Lightning talks
-- 20:30 Talk 3: to be anounced
+- Start at 18:00
+- 1<sup>st</sup> talk: Welcome newcomers (by Vladimir Keleshev)
+- 2<sup>nd</sup> talk: Python for beginners (by Jóan Petur Petersen)
+- 3<sup>rd</sup> talk: Raspberry Pi and Python (by Sergejus Martinenas)
+- 4<sup>th</sup> talk: How to write an interpreter (by Vladimir Keleshev)
 
 ### [Map](https://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=55.782469,12.512829&amp;daddr=&amp;hl=da&amp;geocode=&amp;sll=55.782472,12.512811&amp;sspn=0.000751,0.002237&amp;t=h&amp;mra=mift&amp;mrsp=0&amp;sz=19&amp;ie=UTF8&amp;ll=55.782472,12.512811&amp;spn=0.000751,0.002237)
 
