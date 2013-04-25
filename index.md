@@ -1,5 +1,5 @@
 
-### When: 18:00, Thursday, 2<sup>nd</sup> April 2013
+### When: 18:00, Thursday, 2<sup>nd</sup> May 2013
 
 ### Where: Room M1, Diplomvej 381, Scion DTU, 2800 Lyngby
 
