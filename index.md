@@ -20,6 +20,7 @@ a [sub-reddit for that](http://reddit.com/r/pycon_dk).
 - We start at 18:00
 - Python Best Practice Patterns (by Vladimir Keleshev)
 - API Usability (by Andreas Damgaard Pedersen)
+- Generators (lightning talk by Anders Rasmussen)
 - Raspberry Pi Demo (by Sergejus Martinenas)
 - Virtualenv Under the Hood (by Jóan Petur Petersen)
 
