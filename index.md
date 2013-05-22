@@ -20,6 +20,7 @@ a [sub-reddit for that](http://reddit.com/r/pycon_dk).
 ### Schedule
 
 - We start at 18:00
+- Critique of Python *by Vladimir Keleshev*
 - Introduction to Python Machine Learning *by Laszlo Fogas*
 - [subbmit a talk](mailto:meetup@pycon.dk)
 
