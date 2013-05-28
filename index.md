@@ -22,7 +22,8 @@ a [sub-reddit for that](http://reddit.com/r/pycon_dk).
 - We start at 18:00
 - Critique of Python *by Vladimir Keleshev*
 - Introduction to Python Machine Learning *by Laszlo Fogas*
-- [subbmit a talk](mailto:meetup@pycon.dk)
+- Approaching data malleability *by Alex Burke*
+- [Subbmit a talk](mailto:meetup@pycon.dk)
 
 
 ### [Map](https://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=55.782469,12.512829&amp;daddr=&amp;hl=da&amp;geocode=&amp;sll=55.782472,12.512811&amp;sspn=0.000751,0.002237&amp;t=h&amp;mra=mift&amp;mrsp=0&amp;sz=19&amp;ie=UTF8&amp;ll=55.782472,12.512811&amp;spn=0.000751,0.002237)
