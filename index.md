@@ -17,12 +17,11 @@ to <a href="mailto:meetup@pycon.dk">meetup@pycon.dk</a>.
 If you want to discuss something publicly, we have
 a [sub-reddit for that](http://reddit.com/r/pycon_dk).
 
-### Schedule
+### Talks
 
-- We start at 18:00
 - Critique of Python *by Vladimir Keleshev*
 - Introduction to Python Machine Learning *by Laszlo Fogas*
-- Approaching data malleability *by Alex Burke*
+- Approaching Data Malleability *by Alex Burke*
 - [Subbmit a talk](mailto:meetup@pycon.dk)
 
 
@@ -42,15 +41,14 @@ a [sub-reddit for that](http://reddit.com/r/pycon_dk).
 
 ### Where: Room M1, Diplomvej 381, Scion DTU, 2800 Lyngby
 
-### Schedule
+### Talks
 
-- We start at 18:00
-- *Python Best Practice Patterns* by Vladimir Keleshev 
+- Python Best Practice Patterns *by Vladimir Keleshev*
   ([video](http://www.youtube.com/watch?v=GZNUfkVIHAY))
-- *API Usability* by Andreas Damgaard Pedersen
-- *Generators* by Anders Rasmussen
-- *Raspberry Pi Demo* by Sergejus Martinenas
-- *Virtualenv Under the Hood* by Jóan Petur Petersen
+- API Usability *by Andreas Damgaard Pedersen*
+- Generators *by Anders Rasmussen*
+- Raspberry Pi Demo *by Sergejus Martinenas*
+- Virtualenv Under the Hood *by Jóan Petur Petersen*
 
 
 * * *
@@ -61,17 +59,12 @@ a [sub-reddit for that](http://reddit.com/r/pycon_dk).
 
 ### Where: Room M1, Diplomvej 381, Scion DTU, 2800 Lyngby
 
-### Schedule
+### Talks
 
-- 18:00: *Python for beginners* by Jóan Petur Petersen
-- 19:00: *Raspberry Pi and Python* by Sergejus Martinenas
-- 19:30: *How to write an interpreter* by Vladimir Keleshev
+- Python for beginners *by Jóan Petur Petersen*
+- Raspberry Pi and Python *by Sergejus Martinenas*
+- How to write an interpreter *by Vladimir Keleshev*
   ([video](http://www.youtube.com/watch?v=1h1mM7VwNGo))
-
-The first talk is mostly targeting people that are new to Python.
-So if you know Python well you can come at 19:00 to hear just
-the more advanced talks.
-
 
 * * *
 
@@ -81,13 +74,11 @@ the more advanced talks.
 
 ### Where: Room M1, Diplomvej 381, Scion DTU, 2800 Lyngby
 
-### Schedule
+### Talks
 
-- 17:00 Warm-up
-- 17:30 Talk 1: Why you should give a talk at your local meetup
-- 18:00 Talk 2: Test-driven development with `py.test`
-- 18:30 Lightning-talk session: a series of 5 minute-talks
-- 19:30-21:00 Socializing
+- Why you should give a talk at your local meetup
+- Test-driven development with `py.test` *by Vladimir Keleshev*
+- Lightning-talk session: a series of 5 minute-talks
 
 
 * * *
@@ -98,10 +89,8 @@ the more advanced talks.
 
 ### Where: Room M1, Diplomvej 381, Scion DTU, 2800 Lyngby
 
-### Schedule
+### Talks
 
-- 17:00 Warm-up
-- 17:30 Talk 1: "Opbeat: ops for devs" by Ron Cohen
-- 18:00 Talk 2: "Scientific Python" by Jóan Petur Petersen
-- 18:30 Talk 3: "Create beautiful command-line interfaces" by Vladimir Keleshev
-- 19:00-21:00 Socializing
+- Opbeat: ops for devs *by Ron Cohen*
+- Scientific Python *by Jóan Petur Petersen*
+- Create beautiful command-line interfaces *by Vladimir Keleshev*
