@@ -20,8 +20,9 @@ a [sub-reddit for that](http://reddit.com/r/pycon_dk).
 ### Talks
 
 - Critique of Python *by Vladimir Keleshev*
-- Introduction to Python Machine Learning *by Laszlo Fogas*
-- Approaching Data Malleability *by Alex Burke*
+- Introduction to Python machine learning *by Laszlo Fogas*
+- Approaching data malleability *by Alex Burke*
+- Make slides with Python *by Jóan Petur Petersen*
 - [Subbmit a talk](mailto:meetup@pycon.dk)
 
 
