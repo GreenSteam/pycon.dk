@@ -1,4 +1,4 @@
-Welcome to **Python in Denmark**. We are a group of
+Welcome to **Python denmark**. We are a group of
 people that meet once a month to listen and give
 talks about Python.
 
