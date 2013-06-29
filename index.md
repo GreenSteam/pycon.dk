@@ -1,38 +1,55 @@
-
-### When: 18:00, Thursday, 6<sup>th</sup> June 2013
-
-### Where: Diplomvej 381, Scion DTU, 2800 Lyngby
-
-Welcome to the 5<sup>th</sup> Python meetup in Denmark.
-This is a free-for-all event which aim is to bring the
-Python community in Denmark together.
+Welcome to **Python in Denmark**. We are a group of
+people that meet once a month to listen and give
+talks about Python.
 
 If you want to receive emails about future meetups, write
 to <a href="mailto:meetup@pycon.dk">meetup@pycon.dk</a>.
- 
-Everyone is free to give a talk. Just send us the title
-of yout talk
+
+If you want to give a talk at our next meetup, write
 to <a href="mailto:meetup@pycon.dk">meetup@pycon.dk</a>.
+
+We sometimes record videos of our talks and publish
+them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 If you want to discuss something publicly, we have
 a [sub-reddit for that](http://reddit.com/r/pycon_dk).
 
+* * *
+
+# The next meetup:
+
+* * *
+
+### When: to-be-anounced
+
 ### Talks
 
-- Critique of Python *by Vladimir Keleshev*
-- Introduction to Python machine learning *by Laszlo Fogas*
-- Approaching data malleability *by Alex Burke*
-- Make slides with Python *by Jóan Petur Petersen*
 - [Subbmit a talk](mailto:meetup@pycon.dk)
 
-
-### [Map](https://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=55.782469,12.512829&amp;daddr=&amp;hl=da&amp;geocode=&amp;sll=55.782472,12.512811&amp;sspn=0.000751,0.002237&amp;t=h&amp;mra=mift&amp;mrsp=0&amp;sz=19&amp;ie=UTF8&amp;ll=55.782472,12.512811&amp;spn=0.000751,0.002237)
+### [Where: Diplomvej 381, Scion DTU, 2800 Lyngby](https://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=55.782469,12.512829&amp;daddr=&amp;hl=da&amp;geocode=&amp;sll=55.782472,12.512811&amp;sspn=0.000751,0.002237&amp;t=h&amp;mra=mift&amp;mrsp=0&amp;sz=19&amp;ie=UTF8&amp;ll=55.782472,12.512811&amp;spn=0.000751,0.002237)
 
 <iframe width="700" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=55.782469,12.512829&amp;daddr=&amp;hl=da&amp;geocode=&amp;sll=55.782472,12.512811&amp;sspn=0.000751,0.002237&amp;t=h&amp;mra=mift&amp;mrsp=0&amp;sz=19&amp;ie=UTF8&amp;ll=55.782472,12.512811&amp;spn=0.000751,0.002237&amp;output=embed"></iframe>
 
 * * *
 
 # Previous meetups:
+
+* * *
+
+# #5
+
+### When: 18:00, Thursday, 6<sup>th</sup> June 2013
+
+### Where: Diplomvej 381, Scion DTU, 2800 Lyngby
+
+### Talks
+
+- Critique of Python *by Vladimir Keleshev*
+  ([video](http://www.youtube.com/watch?v=CpjUoYcaUu8))
+- Introduction to Python machine learning *by Laszlo Fogas*
+  ([video](http://www.youtube.com/watch?v=mYibQljF650))
+- Approaching data malleability *by Alex Burke*
+- Make slides with Python *by Jóan Petur Petersen*
 
 * * *
 
@@ -48,6 +65,7 @@ a [sub-reddit for that](http://reddit.com/r/pycon_dk).
   ([video](http://www.youtube.com/watch?v=GZNUfkVIHAY))
 - API Usability *by Andreas Damgaard Pedersen*
 - Generators *by Anders Rasmussen*
+  ([video](http://www.youtube.com/watch?v=6abSHR5Yfgk))
 - Raspberry Pi Demo *by Sergejus Martinenas*
 - Virtualenv Under the Hood *by Jóan Petur Petersen*
 
