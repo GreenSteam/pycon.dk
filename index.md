@@ -20,7 +20,7 @@ a [sub-reddit for that](http://reddit.com/r/pycon_dk).
 
 * * *
 
-### When: to-be-anounced
+### When: 18:00, Thursday, 5<sup>th</sup> September 2013
 
 ### Talks
 
