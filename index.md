@@ -1,12 +1,12 @@
-Welcome to **Python denmark**. We are a group of
+Welcome to **Python Denmark**. We are a group of
 people that meet once a month to listen and give
 talks about Python.
 
 If you want to receive emails about future meetups, write
-to <a href="mailto:meetup@pycon.dk">meetup@pycon.dk</a>.
+to [meetup@pycon.dk](mailto:meetup@pycon.dk?subject=Please subscribe me to email notifications about future meetups).
 
 If you want to give a talk at our next meetup, write
-to <a href="mailto:meetup@pycon.dk">meetup@pycon.dk</a>.
+to [meetup@pycon.dk](mailto:meetup@pycon.dk?subject=I want to give a talk about <blank>).
 
 We sometimes record videos of our talks and publish
 them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
@@ -20,21 +20,33 @@ a [sub-reddit for that](http://reddit.com/r/pycon_dk).
 
 * * *
 
-### When: 18:00, Thursday, 5<sup>th</sup> September 2013
+### When: 18:00, Thursday, 3<sup>rd</sup> October 2013
 
 ### Talks
 
-- py.test by Vladimir Keleshev
+- The Twisted approach: advantages and disadvantages *by Martin Gergov*
+- [Subbmit a talk](mailto:meetup@pycon.dk?subject=I want to give a talk about <blank>)
 
-- State of PyPy by Jóan Petur Petersen
+### Where: Issuu A/S, Gasværksvej 16, 1656 København V
 
-### [Where: Diplomvej 381, Scion DTU, 2800 Lyngby](https://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=55.782469,12.512829&amp;daddr=&amp;hl=da&amp;geocode=&amp;sll=55.782472,12.512811&amp;sspn=0.000751,0.002237&amp;t=h&amp;mra=mift&amp;mrsp=0&amp;sz=19&amp;ie=UTF8&amp;ll=55.782472,12.512811&amp;spn=0.000751,0.002237)
-
-<iframe width="700" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=55.782469,12.512829&amp;daddr=&amp;hl=da&amp;geocode=&amp;sll=55.782472,12.512811&amp;sspn=0.000751,0.002237&amp;t=h&amp;mra=mift&amp;mrsp=0&amp;sz=19&amp;ie=UTF8&amp;ll=55.782472,12.512811&amp;spn=0.000751,0.002237&amp;output=embed"></iframe>
+<iframe width="700" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Issuu,+Gasv%C3%A6rksvej+16,+1656+K%C3%B8benhavn+V,+Danmark&amp;aq=&amp;sll=55.632454,12.65213&amp;sspn=0.114733,0.308647&amp;t=h&amp;ie=UTF8&amp;hq=Issuu,&amp;hnear=Gasv%C3%A6rksvej+16,+1656+K%C3%B8benhavn,+K%C3%B8benhavn+V,+Denmark&amp;ll=55.670857,12.55704&amp;spn=0.006295,0.006295&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Issuu,+Gasv%C3%A6rksvej+16,+1656+K%C3%B8benhavn+V,+Danmark&amp;aq=&amp;sll=55.632454,12.65213&amp;sspn=0.114733,0.308647&amp;t=h&amp;ie=UTF8&amp;hq=Issuu,&amp;hnear=Gasv%C3%A6rksvej+16,+1656+K%C3%B8benhavn,+K%C3%B8benhavn+V,+Denmark&amp;ll=55.670857,12.55704&amp;spn=0.006295,0.006295" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 
 * * *
 
 # Previous meetups:
+
+* * *
+
+# #6
+
+### When: 18:00, Thursday, 5<sup>th</sup> September 2013
+
+### Where: Diplomvej 381, Scion DTU, 2800 Lyngby
+
+### Talks
+
+- Meet py.test *by Vladimir Keleshev*
+- State of PyPy *by Jóan Petur Petersen*
 
 * * *
 
@@ -98,7 +110,7 @@ a [sub-reddit for that](http://reddit.com/r/pycon_dk).
 ### Talks
 
 - Why you should give a talk at your local meetup
-- Test-driven development with `py.test` *by Vladimir Keleshev*
+- Test-driven development with py.test *by Vladimir Keleshev*
 - Lightning-talk session: a series of 5 minute-talks
 
 

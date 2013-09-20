@@ -19,6 +19,7 @@
         </script>
     </head>
     <body>
+        <div class="ad"></div>
         <a href="https://github.com/GreenSteam/pycon.dk"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
         <center style="margin: 1em">
             <!--img src="/graphics/python-meetup-denmark.png" alt="Python meetup Denmark"-->
@@ -35,5 +36,12 @@
           </a>
         </center>
         <hr />
+        <script>
+            if (Math.random() > 0.5) {
+              window.document.body.children[0].innerHTML = '<a href="http://velocityconf.com/velocityeu2013/?cmp=ba-velocity-confreg-home-vleu13_ug_banners"><img src="http://cdn.oreillystatic.com/oreilly/ug/promos/velocityeu/2013/VLEU_728x90_ug.jpg" alt="velocity conference banner"/></a>'
+            } else {
+              window.document.body.children[0].innerHTML = '<a href="http://strataconf.com/strataeu2013/?cmp=ba-strata-confreg-home-steu13_ug_banners"><img src="http://cdn.oreilly.com/oreilly/ug/promos/strataeu/2013/728x90.jpg" alt="velocity conference banner"/></a>'
+            }
+        </script>
     </body>
 </html>
