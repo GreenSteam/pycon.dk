@@ -25,6 +25,7 @@ a [sub-reddit for that](http://reddit.com/r/pycon_dk).
 ### Talks
 
 - The Twisted approach: advantages and disadvantages *by Martin Gergov*
+- What's new in pytest 2.4 *by Vladimir Keleshev*
 - [Subbmit a talk](mailto:meetup@pycon.dk?subject=I want to give a talk about <blank>)
 
 ### Where: Issuu A/S, Gasværksvej 16, 1656 København V
