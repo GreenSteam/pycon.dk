@@ -25,7 +25,7 @@ a [sub-reddit for that](http://reddit.com/r/pycon_dk).
 ### Talks
 
 - The Twisted approach: advantages and disadvantages *by Martin Gergov*
-- Implementing a graph database in Python *by Martin Koch*
+- A Simple Python Graph Database *by Martin Koch*
 - What's new in pytest 2.4 *by Vladimir Keleshev*
 - [Subbmit a talk](mailto:meetup@pycon.dk?subject=I want to give a talk about <blank>)
 
