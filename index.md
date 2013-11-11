@@ -11,33 +11,38 @@ to [meetup@pycon.dk](mailto:meetup@pycon.dk?subject=I want to give a talk about 
 We sometimes record videos of our talks and publish
 them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
-If you want to discuss something publicly, we have
-a [sub-reddit for that](http://reddit.com/r/pycon_dk).
-
 * * *
 
 # The next meetup:
 
 * * *
 
-### When: 18:00, Thursday, 3<sup>rd</sup> October 2013
+### When: 18:00, Thursday, 5<sup>th</sup> December 2013
+
+### Where: DTU, 2800 Lyngby (exact address—later)
 
 ### Talks
 
-- The Twisted approach: advantages and disadvantages *by Martin Gergov*
-- What's new in pytest 2.4 *by Vladimir Keleshev*
-- A Simple Python Graph Database *by Martin Koch*
+- Nature inspired programming *by Kristian Glob Johansson*
 - [Subbmit a talk](mailto:meetup@pycon.dk?subject=I want to give a talk about <blank>)
-
-### Where: Issuu A/S, Gasværksvej 16, 1656 København V
-
-<iframe width="700" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Issuu,+Gasv%C3%A6rksvej+16,+1656+K%C3%B8benhavn+V,+Danmark&amp;aq=&amp;sll=55.632454,12.65213&amp;sspn=0.114733,0.308647&amp;t=h&amp;ie=UTF8&amp;hq=Issuu,&amp;hnear=Gasv%C3%A6rksvej+16,+1656+K%C3%B8benhavn,+K%C3%B8benhavn+V,+Denmark&amp;ll=55.670857,12.55704&amp;spn=0.006295,0.006295&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Issuu,+Gasv%C3%A6rksvej+16,+1656+K%C3%B8benhavn+V,+Danmark&amp;aq=&amp;sll=55.632454,12.65213&amp;sspn=0.114733,0.308647&amp;t=h&amp;ie=UTF8&amp;hq=Issuu,&amp;hnear=Gasv%C3%A6rksvej+16,+1656+K%C3%B8benhavn,+K%C3%B8benhavn+V,+Denmark&amp;ll=55.670857,12.55704&amp;spn=0.006295,0.006295" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 
 * * *
 
 # Previous meetups:
 
 * * *
+
+# #7
+
+### When: 18:00, Thursday, 3<sup>rd</sup> October 2013
+
+### Where: Issuu A/S, Gasværksvej 16, 1656 København V
+
+### Talks
+
+- The Twisted approach: advantages and disadvantages *by Martin Gergov*
+- What's new in pytest 2.4 *by Vladimir Keleshev*
+- A Simple Python Graph Database *by Martin Koch*
 
 # #6
 
