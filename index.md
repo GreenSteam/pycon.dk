@@ -19,12 +19,20 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 ### When: 18:00, Thursday, 5<sup>th</sup> December 2013
 
-### Where: DTU, 2800 Lyngby (exact address—later)
+### Where: Building 324, room 60, DTU, 2800 Lyngby
 
 ### Talks
 
 - Nature inspired programming *by Kristian Glob Johansson*
+- Login management with Flask *by Jóan Petur Petersen*
+- EEG, Emotiv and Python *by Finn Årup Nielsen*
 - [Subbmit a talk](mailto:meetup@pycon.dk?subject=I want to give a talk about <blank>)
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=55.784239,12.518636&amp;sll=55.784356,12.520015&amp;sspn=0.008084,0.01929&amp;t=h&amp;ie=UTF8&amp;ll=55.784356,12.520015&amp;spn=0.008084,0.01929&amp;z=14&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=55.784239,12.518636&amp;sll=55.784356,12.520015&amp;sspn=0.008084,0.01929&amp;t=h&amp;ie=UTF8&amp;ll=55.784356,12.520015&amp;spn=0.008084,0.01929&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+This is the building 324:
+
+![DTU](/dtu.jpg)
 
 * * *
 
