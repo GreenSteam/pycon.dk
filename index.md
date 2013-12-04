@@ -17,7 +17,9 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 * * *
 
-### When: 18:00, Thursday, 5<sup>th</sup> December 2013
+## *Important*: because of the storm we are changing the date. The preliminary time and date is Monday, 9<sup>th</sup> at 18:00.
+
+<!--### When: 18:00, Monday, 9<sup>th</sup> December 2013-->
 
 ### Where: Building 324, room 60, DTU, 2800 Lyngby
 
