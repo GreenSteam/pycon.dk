@@ -1,14 +1,7 @@
-Welcome to **Python Denmark**. We are a group of
-people that meet once a month to listen and give
-talks about Python.
+Want to give a talk? Write us at
+[meetup@pycon.dk](mailto:meetup@pycon.dk?subject=I want to give a talk about <blank>).
 
-If you want to receive emails about future meetups, write
-to [meetup@pycon.dk](mailto:meetup@pycon.dk?subject=Please subscribe me to email notifications about future meetups).
-
-If you want to give a talk at our next meetup, write
-to [meetup@pycon.dk](mailto:meetup@pycon.dk?subject=I want to give a talk about <blank>).
-
-We sometimes record videos of our talks and publish
+We try to record the talks and publish
 them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 * * *
@@ -17,11 +10,14 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 * * *
 
-## *Important*: because of the storm we are changing the date. The preliminary time and date is Monday, 9<sup>th</sup> at 18:00.
+## *Important:*
 
-<!--### When: 18:00, Monday, 9<sup>th</sup> December 2013-->
+Because of the storm on Thursday, we changed the date and place of the meetup.
+The final date and place are:
 
-### Where: Building 324, room 60, DTU, 2800 Lyngby
+### When: 18:00, Monday, 9<sup>th</sup> December 2013
+
+### Where: Diplomvej 381, Scion DTU, 2800 Lyngby ([map](http://goo.gl/maps/llCcL))
 
 ### Talks
 
@@ -30,11 +26,6 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 - EEG, Emotiv and Python *by Finn Årup Nielsen*
 - [Subbmit a talk](mailto:meetup@pycon.dk?subject=I want to give a talk about <blank>)
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=55.784239,12.518636&amp;sll=55.784356,12.520015&amp;sspn=0.008084,0.01929&amp;t=h&amp;ie=UTF8&amp;ll=55.784356,12.520015&amp;spn=0.008084,0.01929&amp;z=14&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=55.784239,12.518636&amp;sll=55.784356,12.520015&amp;sspn=0.008084,0.01929&amp;t=h&amp;ie=UTF8&amp;ll=55.784356,12.520015&amp;spn=0.008084,0.01929&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
-
-This is the building 324:
-
-![DTU](/dtu.jpg)
 
 * * *
 
