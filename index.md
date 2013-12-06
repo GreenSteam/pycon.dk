@@ -17,7 +17,7 @@ The final date and place are:
 
 ### When: 18:00, Monday, 9<sup>th</sup> December 2013
 
-### Where: Diplomvej 381, Scion DTU, 2800 Lyngby ([map](http://goo.gl/maps/llCcL))
+### Where: Room M1, Diplomvej 381, Scion DTU, 2800 Lyngby ([map](http://goo.gl/maps/llCcL))
 
 ### Talks
 
@@ -49,7 +49,7 @@ The final date and place are:
 
 ### When: 18:00, Thursday, 5<sup>th</sup> September 2013
 
-### Where: Diplomvej 381, Scion DTU, 2800 Lyngby
+### Where: Room M1, Diplomvej 381, Scion DTU, 2800 Lyngby
 
 ### Talks
 
@@ -62,7 +62,7 @@ The final date and place are:
 
 ### When: 18:00, Thursday, 6<sup>th</sup> June 2013
 
-### Where: Diplomvej 381, Scion DTU, 2800 Lyngby
+### Where: Room M1, Diplomvej 381, Scion DTU, 2800 Lyngby
 
 ### Talks
 
