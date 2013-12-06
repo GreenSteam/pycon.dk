@@ -45,6 +45,8 @@ The final date and place are:
 - What's new in pytest 2.4 *by Vladimir Keleshev*
 - A Simple Python Graph Database *by Martin Koch*
 
+* * *
+
 # #6
 
 ### When: 18:00, Thursday, 5<sup>th</sup> September 2013
