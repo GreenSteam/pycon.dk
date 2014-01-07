@@ -10,10 +10,24 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 * * *
 
-## *Important:*
+### When: 18:00, Thursday, 6<sup>th</sup> February 2014
 
-Because of the storm on Thursday, we changed the date and place of the meetup.
-The final date and place are:
+### Where: [PROSA](http://prosa.dk/), Vester Farimagsgade 37A, 1606 Copenhagen V ([map](http://goo.gl/maps/o8dtK))
+
+### Talks
+
+- Pretty Python—Why readability matters? Best practices for writing
+clean, readable Python code *by Jakob Pulczynski*
+- [Subbmit a talk](mailto:meetup@pycon.dk?subject=I want to give a talk about <blank>)
+
+
+* * *
+
+# Previous meetups:
+
+* * *
+
+# #8
 
 ### When: 18:00, Monday, 9<sup>th</sup> December 2013
 
@@ -24,14 +38,6 @@ The final date and place are:
 - Nature inspired programming *by Kristian Glob Johansson*
 - Login management with Flask *by Jóan Petur Petersen*
 - EEG, Emotiv and Python *by Finn Årup Nielsen*
-- [Subbmit a talk](mailto:meetup@pycon.dk?subject=I want to give a talk about <blank>)
-
-
-* * *
-
-# Previous meetups:
-
-* * *
 
 # #7
 
