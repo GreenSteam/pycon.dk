@@ -16,9 +16,8 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 ### Talks
 
-- Pretty Python—Why readability matters? Best practices for writing
-clean, readable Python code *by Jakob Pulczynski*
 - Using the dis library, for understanding and debugging code *by Kristian Glob Johansson*
+- PEP 257 and pep257 *by Vladimir Keleshev*
 - [Subbmit a talk](mailto:meetup@pycon.dk?subject=I want to give a talk about <blank>)
 
 
