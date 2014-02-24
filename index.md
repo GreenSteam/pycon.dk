@@ -10,14 +10,14 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 * * *
 
-### When: 18:00, Thursday, 6<sup>th</sup> February 2014
+### When: 18:00, Thursday, 6<sup>th</sup> March 2014
 
-### Where: [PROSA](http://prosa.dk/), Vester Farimagsgade 37A, 1606 Copenhagen V ([map](http://goo.gl/maps/o8dtK))
+### Where: [Podio](http://podio.com), Vesterbrogade 34 (first floor), 1620 Copenhagen V ([map](http://goo.gl/maps/viw8h)).
 
 ### Talks
 
-- Using the dis library, for understanding and debugging code *by Kristian Glob Johansson*
-- PEP 257 and pep257 *by Vladimir Keleshev*
+- Pretty Python—Why readability matters? Best practices for writing
+  clean, readable Python code *by Jakob Pulczynski*
 - [Subbmit a talk](mailto:meetup@pycon.dk?subject=I want to give a talk about <blank>)
 
 
@@ -26,6 +26,18 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 # Previous meetups:
 
 * * *
+
+# #9
+
+### When: 18:00, Thursday, 6<sup>th</sup> February 2014
+
+### Where: [PROSA](http://prosa.dk/), Vester Farimagsgade 37A, 1606 Copenhagen V ([map](http://goo.gl/maps/o8dtK))
+
+### Talks
+
+- Using the dis library, for understanding and debugging code *by Kristian Glob Johansson*
+- What’s new in Python 3.4 *by Alex Burke*
+- PEP 257 and pep257 *by Vladimir Keleshev*
 
 # #8
 
