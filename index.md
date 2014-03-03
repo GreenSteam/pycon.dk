@@ -19,6 +19,7 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 - Pretty Python—Why readability matters? Best practices for writing
   clean, readable Python code *by Jakob Pulczynski*
 - An Introduction to MongoDB and PyMongo *by J. P. Petersen*
+- Codegolf in Python *by Brian Lind Lauridsen*
 - [Subbmit a talk](mailto:meetup@pycon.dk?subject=I want to give a talk about <blank>)
 
 
