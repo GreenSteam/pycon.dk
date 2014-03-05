@@ -12,7 +12,7 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 ### When: 18:00, Thursday, 6<sup>th</sup> March 2014
 
-### Where: [Podio](http://podio.com), Vesterbrogade 34 (first floor), 1620 Copenhagen V ([map](http://goo.gl/maps/viw8h)).
+### Where: [Podio](http://podio.com), Vesterbrogade 34 (4th floor), 1620 Copenhagen V ([map](http://goo.gl/maps/viw8h)).
 
 ### Talks
 
@@ -20,6 +20,7 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
   clean, readable Python code *by Jakob Pulczynski*
 - An Introduction to MongoDB and PyMongo *by J. P. Petersen*
 - Codegolf in Python *by Brian Lind Lauridsen*
+- Say Hi to Hy! by *by Martin Gergov*
 - [Subbmit a talk](mailto:meetup@pycon.dk?subject=I want to give a talk about <blank>)
 
 
