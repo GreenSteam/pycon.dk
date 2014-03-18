@@ -8,7 +8,6 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 # The next meetup:
 
-# #10
 
 ### When: 18:00, Thursday, 3<sup>th</sup> April 2014
 
