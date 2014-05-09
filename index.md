@@ -9,18 +9,34 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 # The next meetup:
 
 
-### When: 18:00, Thursday, 3<sup>th</sup> April 2014
+### When: 18:00, Thursday, 5<sup>th</sup> June 2014
 
-### Where: Where: Room M1, Diplomvej 381, Scion DTU, 2800 Lyngby - [map](https://www.google.com/maps/place/55%C2%B046'56.8%22N+12%C2%B030'46.4%22E/@55.782442,12.512886,15z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0)
+### Where: To be determined.
+
 ### Talks
 
-- Learning Python; - starting from scratch *by John Bograd*
+- Games and graphics with Pygame *by John Bograd*
+- List and Generator Comprehensions *by J. P. Petersen*
 - [Subbmit a talk](mailto:meetup@pycon.dk?subject=I want to give a talk about <blank>)
 
 
 * * *
 
 # Previous meetups:
+
+* * *
+
+# #11
+
+
+### When: 18:00, Thursday, 3<sup>th</sup> April 2014
+
+### Where: Room M1, Diplomvej 381, Scion DTU, 2800 Lyngby - [map](https://www.google.com/maps/place/55%C2%B046'56.8%22N+12%C2%B030'46.4%22E/@55.782442,12.512886,15z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0)
+
+### Talks
+
+- Learning Python; - starting from scratch *by John Bograd*
+- [Subbmit a talk](mailto:meetup@pycon.dk?subject=I want to give a talk about <blank>)
 
 * * *
 
