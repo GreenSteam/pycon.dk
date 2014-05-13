@@ -11,7 +11,7 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 ### When: 18:00, Thursday, 5<sup>th</sup> June 2014
 
-### Where: To be determined.
+### Where: FALCON Social, K&oslash;bmagergade 45, 1150 K&oslash;benhavn, Denmark
 
 ### Talks
 
