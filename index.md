@@ -4,6 +4,7 @@ Want to give a talk? Write us at
 We try to record the talks and publish
 them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
+* * *
 
 # The next meetup:
 
