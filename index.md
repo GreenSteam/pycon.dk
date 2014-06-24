@@ -16,6 +16,7 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 ### Talks
 
 - Games and graphics with Pygame *by John Bograd*
+  ([video](https://www.youtube.com/watch?v=i4sJGGY1mTA))
 - [List and Generator Comprehensions](http://joanpeturpetersen.github.io/list-comp) *by J. P. Petersen*
 - [Short talk: An Enthusiast's Intro to PyMC3](http://htmlpreview.github.io/?https://github.com/laszlocph/talks/blob/master/probabilistic_programming/presentation.html#slide1) *by Laszlo Fogas*
 - [Subbmit a talk](mailto:meetup@pycon.dk?subject=I want to give a talk about <blank>)
