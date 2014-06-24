@@ -4,10 +4,25 @@ Want to give a talk? Write us at
 We try to record the talks and publish
 them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
-* * *
 
 # The next meetup:
 
+### When: 18:00, Thursday, 5<sup>th</sup> July 2014
+
+### Where: Room M1, Diplomvej 381, Scion DTU, 2800 Lyngby - [map](https://www.google.com/maps/place/55%C2%B046'56.8%22N+12%C2%B030'46.4%22E/@55.782442,12.512886,15z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0)
+
+### Talks
+
+- Linux/UNIX friendly Python scripts *by Thomas Ammitzb&oslash;ll-Bach*
+- Interfacing hardware with PySerial *by J. P. Petersen*
+
+* * *
+
+# Previous meetups:
+
+* * *
+
+# #12
 
 ### When: 18:00, Thursday, 5<sup>th</sup> June 2014
 
@@ -21,10 +36,6 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 - [Short talk: An Enthusiast's Intro to PyMC3](http://htmlpreview.github.io/?https://github.com/laszlocph/talks/blob/master/probabilistic_programming/presentation.html#slide1) *by Laszlo Fogas*
 - [Subbmit a talk](mailto:meetup@pycon.dk?subject=I want to give a talk about <blank>)
 
-
-* * *
-
-# Previous meetups:
 
 * * *
 
