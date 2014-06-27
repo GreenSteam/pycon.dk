@@ -16,6 +16,7 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 - Linux/UNIX friendly Python scripts *by Thomas Ammitzb&oslash;ll-Bach*
 - Interfacing hardware with PySerial *by J. P. Petersen*
+- Using domain-specific languages for writing tests *by Vladimir Keleshev*
 
 * * *
 
