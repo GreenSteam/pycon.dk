@@ -8,6 +8,24 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 # The next meetup:
 
+### When: 18:00, Thursday, 4<sup>th</sup> September 2014
+
+### Where: Robocat, Pilestraede 43, 2. sal - [map](https://goo.gl/maps/N98Fu)
+
+### Talks
+
+- PyPy introduction and discussion - including your experiences with PyPy *by Kristian Glob Johansson*
+- Network programming in Python *by John Bograd*
+- Parallel programming in Python *by John Bograd*
+
+* * *
+
+# Previous meetups:
+
+* * *
+
+# #13
+
 ### When: 18:00, Thursday, 3<sup>th</sup> July 2014
 
 ### Where: Room M1, Diplomvej 381, Scion DTU, 2800 Lyngby - [map](https://www.google.com/maps/place/55%C2%B046'56.8%22N+12%C2%B030'46.4%22E/@55.782442,12.512886,15z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0)
@@ -17,10 +35,6 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 - Linux/UNIX friendly Python scripts *by Thomas Ammitzb&oslash;ll-Bach*
 - Interfacing hardware with PySerial *by J. P. Petersen*
 - Using domain-specific languages for writing tests *by Vladimir Keleshev*
-
-* * *
-
-# Previous meetups:
 
 * * *
 
