@@ -4,9 +4,24 @@ Want to give a talk? Write us at
 We try to record the talks and publish
 them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
+# The next meetup:
+
+### When: 18:00, Thursday, 2<sup>th</sup> October 2014
+
+### Where: Room M1, Diplomvej 381, Scion DTU, 2800 Lyngby - [map](https://www.google.com/maps/place/55%C2%B046'56.8%22N+12%C2%B030'46.4%22E/@55.782442,12.512886,15z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0)
+
+### Talks
+
+- PyPy introduction and discussion - including your experiences with PyPy *by Kristian Glob Johansson*
+- Running external programs from Python by *J. P. Petersen*
+
 * * *
 
-# The next meetup:
+# Previous meetups:
+
+* * *
+
+# #14
 
 ### When: 18:00, Thursday, 4<sup>th</sup> September 2014
 
@@ -14,13 +29,9 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 ### Talks
 
-- PyPy introduction and discussion - including your experiences with PyPy *by Kristian Glob Johansson*
+- (Postponed) PyPy introduction and discussion - including your experiences with PyPy *by Kristian Glob Johansson*
 - Network programming in Python *by John Bograd*
 - Parallel programming in Python *by John Bograd*
-
-* * *
-
-# Previous meetups:
 
 * * *
 
