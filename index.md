@@ -10,7 +10,7 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 ### When: 18:00, Thursday, 2<sup>th</sup> October 2014
 
-### Where: Room M1, Diplomvej 373, Scion DTU, 2800 Lyngby - [map](https://goo.gl/maps/c4LBZ)
+### Where: GreenSteam, Centrifugevej, Scion DTU, 2800 Lyngby - [map](https://goo.gl/maps/c4LBZ)
 
 ### Talks
 
