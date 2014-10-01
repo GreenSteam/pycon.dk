@@ -6,9 +6,11 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 # The next meetup:
 
+### NOTICE LOCATION HAS CHANGED!
+
 ### When: 18:00, Thursday, 2<sup>th</sup> October 2014
 
-### Where: Room M1, Diplomvej 381, Scion DTU, 2800 Lyngby - [map](https://www.google.com/maps/place/55%C2%B046'56.8%22N+12%C2%B030'46.4%22E/@55.782442,12.512886,15z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0)
+### Where: Room M1, Diplomvej 373, Scion DTU, 2800 Lyngby - [map](https://goo.gl/maps/c4LBZ)
 
 ### Talks
 
