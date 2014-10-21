@@ -4,9 +4,33 @@ Want to give a talk? Write us at
 We try to record the talks and publish
 them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
+* * *
+
 # The next meetup:
 
-### NOTICE LOCATION HAS CHANGED!
+* * *
+
+# Special event #1 with Gary Bernhardt
+
+Gary is a prominent Pythonista and Rubyista, he runs
+[Destroy All Software Screencasts](https://www.destroyallsoftware.com/screencasts).
+You might know him from one of his [conference talks](https://www.destroyallsoftware.com/talks).
+
+### When: 18:00, Monday, 27<sup>th</sup> October 2014
+
+### Where: Copenhhagen; details will follow
+
+### Talks
+
+- Title pending by *Gary Bernhardt*
+
+* * *
+
+# Previous meetups:
+
+* * *
+
+# #15
 
 ### When: 18:00, Thursday, 2<sup>th</sup> October 2014
 
@@ -16,10 +40,6 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 - PyPy introduction and discussion - including your experiences with PyPy *by Kristian Glob Johansson*
 - Running external programs from Python by *J. P. Petersen*
-
-* * *
-
-# Previous meetups:
 
 * * *
 
