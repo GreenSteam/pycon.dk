@@ -18,7 +18,7 @@ You might know him from one of his [conference talks](https://www.destroyallsoft
 
 ### When: 18:00, Monday, 27<sup>th</sup> October 2014
 
-### Where: Copenhhagen; details will follow
+### Where: Robocat, Pilestraede 43, 2. sal - [map](https://goo.gl/maps/N98Fu)
 
 ### Talks
 
