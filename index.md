@@ -8,6 +8,24 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 # The next meetup:
 
+### When: 18:00, Thursday, 5<sup>th</sup> April 2015
+
+### Where: Robocat, Pilestraede 43, 2. sal - [map](https://goo.gl/maps/N98Fu)
+
+### Talks
+
+- Hosting Python sites on Azure *by Sebastian Brandes*
+
+
+* * *
+
+# Previous meetups:
+
+* * *
+
+
+# 16
+
 * * *
 
 # Special event #1 with Gary Bernhardt
@@ -23,10 +41,6 @@ You might know him from one of his [conference talks](https://www.destroyallsoft
 ### Talks
 
 - Title pending by *Gary Bernhardt*
-
-* * *
-
-# Previous meetups:
 
 * * *
 
