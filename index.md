@@ -8,7 +8,7 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 # The next meetup:
 
-### When: 18:00, Thursday, 5<sup>th</sup> April 2015
+### When: 18:00, Thursday, 5<sup>th</sup> March 2015
 
 ### Where: Robocat, Pilestraede 43, 2. sal - [map](https://goo.gl/maps/N98Fu)
 
