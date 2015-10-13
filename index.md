@@ -8,13 +8,18 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 # The next meetup:
 
-### When: 18:00, Thursday, 5<sup>th</sup> March 2015
+### When: 18:00, Thursday, 5<sup>th</sup> November 2015
 
-### Where: Robocat, Pilestraede 43, 2. sal - [map](https://goo.gl/maps/N98Fu)
+### Where: To be determined.
 
 ### Talks
 
-- Hosting Python sites on Azure *by Sebastian Brandes*
+- An Introduction to PyCUDA *by Alexander Bock*:
+  * NVIDIA's CUDA is a platform for harnessing the power of the GPU for general purpose computation. It has seen much success in many different fields and has spawned tons of useful libraries. CUDA has also found its way into Python, combining the zen of the language with the raw compute power of the GPGPU. In this talk, I'll give an introductory presentation to PyCUDA, along with examples of how to implement some simple computations and use the framework's existing utilities. I'll also give some advice for future endeavours with PyCUDA.
+- An Introduction to ctypes *by J. P. Petersen*:
+  * Call functions from external libraries (DLL, so, dylib, etc.) using Python's ctypes library. Calling external libraries and compiled code can for example be used to speed up Python code considerably, and give access to libraries that have not been wrapped for Python yet, and many other things.
+- An Introduction to Micro Python *by Maciej Wisniewski*:
+  * More info later - a PyBoard will be demostrated.
 
 
 * * *
@@ -23,10 +28,19 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 * * *
 
+# #17
 
-# 16
+### When: 18:00, Thursday, 5<sup>th</sup> March 2015
+
+### Where: Robocat, Pilestraede 43, 2. sal - [map](https://goo.gl/maps/N98Fu)
+
+### Talks
+
+- Hosting Python sites on Azure *by Sebastian Brandes*
 
 * * *
+
+# #16
 
 # Special event #1 with Gary Bernhardt
 
