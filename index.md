@@ -10,7 +10,7 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 
 ### When: 18:00, Thursday, 5<sup>th</sup> November 2015
 
-### Where: To be determined.
+### Where: Iconfinder, Pilestraede 43, 2. sal - [map](https://goo.gl/maps/N98Fu)
 
 ### Talks
 
