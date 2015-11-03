@@ -19,7 +19,7 @@ them to our [YouTube channel](http://www.youtube.com/user/PyConDK).
 - An Introduction to ctypes *by J. P. Petersen*:
   * Call functions from external libraries (DLL, so, dylib, etc.) using Python's ctypes library. Calling external libraries and compiled code can for example be used to speed up Python code considerably, and give access to libraries that have not been wrapped for Python yet, and many other things.
 - An Introduction to Micro Python *by Maciej Wisniewski*:
-  * More info later - a PyBoard will be demostrated.
+  * PyBoard will be demostrated using various code examples.
 
 
 * * *
